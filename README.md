@@ -8,6 +8,6 @@ This hook is intended to manipulate a counter. It has functions to add, subtract
 
 With this hook we can manipulate any form.
 
-## useFetch 
+## useFetch 🌍
 
 This hook fetches information from any API that provides a URL.
